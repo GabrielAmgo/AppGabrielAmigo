@@ -1,0 +1,2 @@
+1;O chamado de Cthullu;H.P Lovecraft;MISTERIO;111;Pandorga;12.67F;2222
+2;Harry Potter;J.K Rolling;FANTASIA;222;Roco;50.0F

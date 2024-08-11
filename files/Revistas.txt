@@ -1,0 +1,1 @@
+3;Turma da Monica;Mauricio de Souza;INFANTIL;9.50F;true;1111;MENSAL

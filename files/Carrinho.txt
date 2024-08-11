@@ -1,0 +1,5 @@
+C;1;
+L;1;O chamado de Cthullu;H.P Lovecraft;MISTERIO;111;Pandorga;12.67F;2222
+L;2;Harry Potter;J.K Rolling;FANTASIA;222;Roco;50.0F
+C;2;
+R;3;Turma da Monica;Mauricio de Souza;INFANTIL;9.50F;true;1111;MENSAL
