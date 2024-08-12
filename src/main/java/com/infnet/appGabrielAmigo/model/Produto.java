@@ -6,7 +6,7 @@ import lombok.Getter;
 @Data
 public class Produto {
 
-    private  int id;
+    private int id;
     private int codigo;
     private String nome;
     private Genero tipoGenero;

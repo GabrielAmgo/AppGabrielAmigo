@@ -8,7 +8,7 @@ import java.util.List;
 @Data
 public class Carrinho {
     private int codigo;
-    private List<Produto> produtos = new ArrayList<>();
+    private List<Produto> produtos;
     private float valorTotal;
 
     public Carrinho(){
