@@ -1,1 +1,2 @@
 3;Turma da Monica;Mauricio de Souza;INFANTIL;9.50F;true;1111;MENSAL
+4;One Piece;Eiichiro Oda;FANTASIA;11.90F;true;2323;SEMANAL
